@@ -4,5 +4,5 @@ print("Hello, world!")
 
 print(randint(1, 6))
 
-
+print("~the end~")
 
